@@ -1,3 +1,5 @@
 new text document inside of it 
 
 "this is the view     ";
+
+changes can be reflected after calling add fuction
